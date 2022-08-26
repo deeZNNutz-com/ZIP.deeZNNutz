@@ -1,4 +1,4 @@
-# dZIP.deeZNNutz.com
+# dZIP.deeZNNutz
 
 What is an a dZIP?
 

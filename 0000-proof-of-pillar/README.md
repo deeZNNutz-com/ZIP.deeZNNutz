@@ -1,1 +1,0 @@
-# Insert Proof of Pillar

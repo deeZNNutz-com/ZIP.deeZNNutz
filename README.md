@@ -1,9 +1,8 @@
 # ZIP.deeZNNutz
 
-**What is a ZIP?** ZIP stands for Zenon Improvement Proposal. ZIP is a framework to provide structured facilitation of an idea to software upgrade.
+**What is a ZIP?** ZIP stands for Zenon Improvement Proposal. ZIP is a framework to provide structured facilitation of an idea to software upgrade.  This repo hosts ZIPs sponsored by the pillar deeZNNutz.com.
 
 ## Proof of Pillar
-
 - Pillar: DeeZNNutz.com
 - Address: z1qrztagl9rukq3ltdflnvg4zrvpfp84mydfejk9
 - Public Key: 88c0ebc7de1aa0b6e1958b4ead1f43df15f2e92f3f876c564005ee38da9a77f0
